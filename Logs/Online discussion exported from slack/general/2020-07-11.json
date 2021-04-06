@@ -1,0 +1,550 @@
+[
+    {
+        "client_msg_id": "37aae26b-b343-46d4-8270-935919a74cb6",
+        "type": "message",
+        "text": "Hi team, it 's the end of the week so, I think we should do some wrap up what we have done to make sure we are still on schedule",
+        "user": "U016FJNG9SA",
+        "ts": "1594471953.001100",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vhm7E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi team, it 's the end of the week so, I think we should do some wrap up what we have done to make sure we are still on schedule"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0208e7d-5b1c-40e4-8c5c-33e940d844b9",
+        "type": "message",
+        "text": "so we will report what u have done",
+        "user": "U016FJNG9SA",
+        "ts": "1594471986.001800",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G75gz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so we will report what u have done"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f204a847-76b1-4027-9010-adddb0d29799",
+        "type": "message",
+        "text": "Phan Thien Phuc: done:\n+ Set up Git Hub\n+ research MH math proof\n\nnext_week:\n+ craw COVID data\n+ I will in charge of review your code from next week",
+        "user": "U016FJNG9SA",
+        "ts": "1594472040.002800",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U016FJNG9SA",
+            "ts": "1594472101.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nwASz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Phan Thien Phuc: done:\n+ Set up Git Hub\n+ research MH math proof\n\nnext_week:\n+ craw COVID data\n+ I will in charge of review your code from next week"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U016FKX0JES"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68aa9b01-f5ab-4787-bf63-b70f46ad26ac",
+        "type": "message",
+        "text": "Update on metroposlis: working, but still need more optimization",
+        "user": "U016FKX0JES",
+        "ts": "1594487328.003500",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DUt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update on metroposlis: working, but still need more optimization"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4604d41-1388-4eaa-b989-48b8764158e4",
+        "type": "message",
+        "text": "Applying MH algorithm for excersice 3 is good enough",
+        "user": "U016FKX0JES",
+        "ts": "1594487404.004400",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LYpTI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Applying MH algorithm for excersice 3 is good enough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d1a213f5-bf38-4fa8-bb1d-904d4945d98b",
+        "type": "message",
+        "text": "Excersice 4 can be done with current code immeadiately, but the code is rather messy, so to write report, I need more time to optimize and clean it",
+        "user": "U016FKX0JES",
+        "ts": "1594487470.005500",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aE1dW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Excersice 4 can be done with current code immeadiately, but the code is rather messy, so to write report, I need more time to optimize and clean it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "678cd278-21b8-43ff-b8f1-317ff3fb381c",
+        "type": "message",
+        "text": "Writing report - Exercise 1\nDone:\n+Config report template\n+Write intro&amp;construction discrete &amp; continuous SIR model theory in word format\n+Find specific examples of model(s)\nNext week:\n+ convert to latex format\n+ Write RK4 theory, MH theory in latex format",
+        "user": "U016FKE6UDU",
+        "ts": "1594488784.009900",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g230d4026321",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/230d4026321deef90e8a757360f5bbbd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "Hoang-Viet Nguyen",
+            "display_name": "Hoang-Viet Nguyen",
+            "team": "T016LV2U8MB",
+            "name": "viet.nguyenharry",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dpA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Writing report - Exercise 1\nDone:\n+Config report template\n+Write intro&construction discrete & continuous SIR model theory in word format\n+Find specific examples of model(s)\nNext week:\n+ convert to latex format\n+ Write RK4 theory, MH theory in latex format"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0AE038D4-CA7A-4D59-8622-B5CC11206052",
+        "type": "message",
+        "text": "RK4_SIR model implementation - Exercise 2\nDone:\n+ Implement RK4 in python.\n+ Plot gragh for visualization.\n\nTODO:\n+ Make stimulation with running red\/green dot.",
+        "user": "U016WEFU82G",
+        "ts": "1594515041.003700",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "4405ced9f628",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1276759189552_4405ced9f6281ae97c59_72.jpg",
+            "first_name": "",
+            "real_name": "Vu Minh Quang",
+            "display_name": "Vu Minh Quang",
+            "team": "T016LV2U8MB",
+            "name": "quang.vuminh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/AE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "RK4_SIR model implementation - Exercise 2\nDone:\n+ Implement RK4 in python.\n+ Plot gragh for visualization.\n\nTODO:\n+ Make stimulation with running red\/green dot."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e99314f3-f1e7-451a-b27b-5bff33ed8f52",
+        "type": "message",
+        "text": "<@U016WEFU82G> u 'll need to change ur code a little bit in RK4, ask <@U016FKX0JES> for detail implementation",
+        "user": "U016FJNG9SA",
+        "ts": "1594515598.005000",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N1Ovr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016WEFU82G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " u 'll need to change ur code a little bit in RK4, ask "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016FKX0JES"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for detail implementation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5f6f2da-c7d1-40cf-b71a-bc9fd5267b38",
+        "type": "message",
+        "text": "<@U016FJNG9SA> do you have link to documentation guide for writing comment?",
+        "user": "U016FKX0JES",
+        "ts": "1594517199.005700",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ARZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016FJNG9SA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " do you have link to documentation guide for writing comment?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9badc31-6586-420f-8cd8-797373999217",
+        "type": "message",
+        "text": "I found many documenting style",
+        "user": "U016FKX0JES",
+        "ts": "1594517214.006000",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U016FKX0JES",
+            "ts": "1594517237.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "slb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I found many documenting style"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef0c4aff-fa4c-4952-84e8-6f32fa91afd5",
+        "type": "message",
+        "text": "Don't know which one to use",
+        "user": "U016FKX0JES",
+        "ts": "1594517221.006200",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bqxx3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Don't know which one to use"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73577adc-2830-4fdd-b5cf-766d7c30f0a2",
+        "type": "message",
+        "text": "<https:\/\/www.datacamp.com\/community\/tutorials\/docstrings-python>\n\nI prefer we follow google doc style",
+        "user": "U016FJNG9SA",
+        "ts": "1594517590.006700",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "DataCamp Community",
+                "title": "(Tutorial) Docstrings in Python",
+                "title_link": "https:\/\/www.datacamp.com\/community\/tutorials\/docstrings-python",
+                "text": "Learn about the different types of docstrings and various docstring formats like Sphinx, Numpy and Pydoc.",
+                "fallback": "DataCamp Community: (Tutorial) Docstrings in Python",
+                "thumb_url": "https:\/\/cdn.datacamp.com\/community\/logos\/medium\/placeholder.jpg",
+                "ts": 1586539574,
+                "from_url": "https:\/\/www.datacamp.com\/community\/tutorials\/docstrings-python",
+                "thumb_width": 240,
+                "thumb_height": 240,
+                "service_icon": "https:\/\/cdn.datacamp.com\/main-app\/assets\/favicon-335cd0394b32102a39221d79e5fd7e51078e6d32a0c8aea59676a6869f84e9d8.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.datacamp.com\/community\/tutorials\/docstrings-python"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MO0nI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.datacamp.com\/community\/tutorials\/docstrings-python"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nI prefer we follow google doc style"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

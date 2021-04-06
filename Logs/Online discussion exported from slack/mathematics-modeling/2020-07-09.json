@@ -1,0 +1,447 @@
+[
+    {
+        "type": "message",
+        "text": "This is the newer version of RK4-Model. Please take a look and give it some comments.\nPs: If you want to use RK4-Model call the function RK4SIR with the appropriate inputs.",
+        "files": [
+            {
+                "id": "F016U65RV37",
+                "created": 1594360986,
+                "timestamp": 1594360986,
+                "name": "rungeKuttaModel_py.py",
+                "title": "rungeKuttaModel.py",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "U016WEFU82G",
+                "editable": true,
+                "size": 7357,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T016LV2U8MB-F016U65RV37\/rungeKuttaModel_py.py?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T016LV2U8MB-F016U65RV37\/download\/rungeKuttaModel_py.py?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "permalink": "https:\/\/bk-hcm.slack.com\/files\/U016WEFU82G\/F016U65RV37\/rungeKuttaModel_py.py",
+                "permalink_public": "https:\/\/slack-files.com\/T016LV2U8MB-F016U65RV37-9188b155e2",
+                "edit_link": "https:\/\/bk-hcm.slack.com\/files\/U016WEFU82G\/F016U65RV37\/rungeKuttaModel_py.py\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tJwd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the newer version of RK4-Model. Please take a look and give it some comments.\nPs: If you want to use RK4-Model call the function RK4SIR with the appropriate inputs."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U016WEFU82G",
+        "display_as_bot": false,
+        "ts": "1594361095.001600"
+    },
+    {
+        "client_msg_id": "35790fec-17be-4c9d-b766-9aba33cfee81",
+        "type": "message",
+        "text": "<@U016FKX0JES> can u incharge of review code",
+        "user": "U016FJNG9SA",
+        "ts": "1594361184.002600",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dkz5W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016FKX0JES"
+                            },
+                            {
+                                "type": "text",
+                                "text": " can u incharge of review code"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c8394013-8cab-49c0-96fe-3735eac17af3",
+        "type": "message",
+        "text": "<@U016WEFU82G> loop for i at line 181 should be increasment by dt in the range (0, t). Currently yours is only correct when dt = 1",
+        "user": "U016FKX0JES",
+        "ts": "1594361667.004000",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bGARC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016WEFU82G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " loop for i at line 181 should be increasment by dt in the range (0, t). Currently yours is only correct when dt = 1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3337900-9eff-46e8-b1c1-20246d6dda6b",
+        "type": "message",
+        "text": "Also please add more comment, you are overcomplicating this algorithm",
+        "user": "U016FKX0JES",
+        "ts": "1594361935.005800",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lpZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also please add more comment, you are overcomplicating this algorithm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9abf9bb3-48f5-4ef2-b12b-625f3cfb2183",
+        "type": "message",
+        "text": "It's very hard to follow",
+        "user": "U016FKX0JES",
+        "ts": "1594361945.006100",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r+vVA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's very hard to follow"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d192603f-1321-47a5-97ad-c92d44d2e5bc",
+        "type": "message",
+        "text": "Thank you, I appreciate your comments",
+        "user": "U016WEFU82G",
+        "ts": "1594361950.006200",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "4405ced9f628",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1276759189552_4405ced9f6281ae97c59_72.jpg",
+            "first_name": "",
+            "real_name": "Vu Minh Quang",
+            "display_name": "Vu Minh Quang",
+            "team": "T016LV2U8MB",
+            "name": "quang.vuminh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iQb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you, I appreciate your comments"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e3c9cccf-456d-445d-94fe-e19e09c35c55",
+        "type": "message",
+        "text": "I will refactor the code by tonight if everything work as you expected.",
+        "user": "U016WEFU82G",
+        "ts": "1594362954.006900",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "4405ced9f628",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1276759189552_4405ced9f6281ae97c59_72.jpg",
+            "first_name": "",
+            "real_name": "Vu Minh Quang",
+            "display_name": "Vu Minh Quang",
+            "team": "T016LV2U8MB",
+            "name": "quang.vuminh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PCsMq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will refactor the code by tonight if everything work as you expected."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd46b112-ea05-4753-a53a-8fedba37f6ac",
+        "type": "message",
+        "text": "Please see through the output to see if it is correct or not. Thank you very much.",
+        "user": "U016WEFU82G",
+        "ts": "1594363080.007900",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "4405ced9f628",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1276759189552_4405ced9f6281ae97c59_72.jpg",
+            "first_name": "",
+            "real_name": "Vu Minh Quang",
+            "display_name": "Vu Minh Quang",
+            "team": "T016LV2U8MB",
+            "name": "quang.vuminh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "adm6R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please see through the output to see if it is correct or not. Thank you very much."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F016VJLVCTC",
+                "created": 1594363404,
+                "timestamp": 1594363404,
+                "name": "1.PNG",
+                "title": "1.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U016FKX0JES",
+                "editable": false,
+                "size": 61503,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T016LV2U8MB-F016VJLVCTC\/1.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T016LV2U8MB-F016VJLVCTC\/download\/1.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016VJLVCTC-a04d7269c3\/1_64.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016VJLVCTC-a04d7269c3\/1_80.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016VJLVCTC-a04d7269c3\/1_360.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_360_w": 360,
+                "thumb_360_h": 159,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016VJLVCTC-a04d7269c3\/1_480.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_480_w": 480,
+                "thumb_480_h": 211,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016VJLVCTC-a04d7269c3\/1_160.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016VJLVCTC-a04d7269c3\/1_720.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_720_w": 720,
+                "thumb_720_h": 317,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016VJLVCTC-a04d7269c3\/1_800.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_800_w": 800,
+                "thumb_800_h": 352,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016VJLVCTC-a04d7269c3\/1_960.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_960_w": 960,
+                "thumb_960_h": 423,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016VJLVCTC-a04d7269c3\/1_1024.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 451,
+                "original_w": 1228,
+                "original_h": 541,
+                "thumb_tiny": "AwAVADCqbmYf8tX\/ADpDdTdppPzqM4z2\/KmnrQBZt7mZrmNWlcgsAQTW1WDa\/wDH1F\/vit4UAHPqfyo5zyOKWigDO\/swf89j+VJ\/ZQ\/57H\/vmtEdKKAM9NOELrJ5pOw5xt61b87\/AGf1p8n+rb6VX\/woAs5ozSUlAH\/\/2Q==",
+                "permalink": "https:\/\/bk-hcm.slack.com\/files\/U016FKX0JES\/F016VJLVCTC\/1.png",
+                "permalink_public": "https:\/\/slack-files.com\/T016LV2U8MB-F016VJLVCTC-896f146516",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U016FKX0JES",
+        "display_as_bot": false,
+        "ts": "1594363407.008000",
+        "thread_ts": "1594363407.008000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1594380343.000100",
+        "reply_users": [
+            "U016FJNG9SA"
+        ],
+        "replies": [
+            {
+                "user": "U016FJNG9SA",
+                "ts": "1594380343.000100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1594380343.000100"
+    },
+    {
+        "client_msg_id": "18fbe429-1d47-4f95-8d60-28f9e9b47a24",
+        "type": "message",
+        "text": "<@U016FJNG9SA> is this look correct",
+        "user": "U016FKX0JES",
+        "ts": "1594363626.008600",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S3l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016FJNG9SA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is this look correct"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

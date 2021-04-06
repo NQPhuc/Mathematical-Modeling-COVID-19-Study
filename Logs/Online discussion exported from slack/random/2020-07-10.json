@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "dad4dd9d-6f46-4049-91da-79b532bb8921",
+        "type": "message",
+        "text": "ae sáng nay đi cafe bàn ko?",
+        "user": "U016FJNG9SA",
+        "ts": "1594429256.000300",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "37NE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ae sáng nay đi cafe bàn ko?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

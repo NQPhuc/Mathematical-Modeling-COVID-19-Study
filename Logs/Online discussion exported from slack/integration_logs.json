@@ -1,0 +1,84 @@
+[
+{
+    "user_id": "U016FKE6UDU",
+    "user_name": "viet.nguyenharry",
+    "date": "1594748914",
+    "change_type": "added",
+    "app_type": "Google Drive",
+    "app_id": "A6NL8MJ6Q",
+    "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+},
+{
+    "user_id": "U016FKE6UDU",
+    "user_name": "viet.nguyenharry",
+    "date": "1594748906",
+    "change_type": "added",
+    "service_id": 1241103943395,
+    "service_type": "Google Drive",
+    "scope": "files:write:user"
+},
+{
+    "user_id": "U016FJNG9SA",
+    "user_name": "phuc1012000",
+    "date": "1594114556",
+    "change_type": "expanded",
+    "service_id": 1238995296865,
+    "service_type": "App",
+    "scope": null,
+    "app_type": "GitHub",
+    "app_id": "A8GBNUWU8"
+},
+{
+    "user_id": "U016FJNG9SA",
+    "user_name": "phuc1012000",
+    "date": "1594114556",
+    "change_type": "expanded",
+    "service_id": 1238995296865,
+    "service_type": "App",
+    "scope": null,
+    "app_type": "GitHub",
+    "app_id": "A8GBNUWU8"
+},
+{
+    "user_id": "U016FJNG9SA",
+    "user_name": "phuc1012000",
+    "date": "1594114556",
+    "change_type": "resource_grant_created",
+    "service_id": 1238995296865,
+    "service_type": "App",
+    "scope": null,
+    "app_type": "GitHub",
+    "app_id": "A8GBNUWU8"
+},
+{
+    "user_id": "U016FJNG9SA",
+    "user_name": "phuc1012000",
+    "date": "1594114556",
+    "change_type": "resource_grant_created",
+    "service_id": 1238995296865,
+    "service_type": "App",
+    "scope": null,
+    "channel": "private",
+    "app_type": "GitHub",
+    "app_id": "A8GBNUWU8"
+},
+{
+    "user_id": "U016FJNG9SA",
+    "user_name": "phuc1012000",
+    "date": "1594114556",
+    "change_type": "wildcard_resource_grant_created",
+    "service_id": 1238995296865,
+    "service_type": "App",
+    "scope": null,
+    "app_type": "GitHub",
+    "app_id": "A8GBNUWU8"
+},
+{
+    "user_id": "U016FJNG9SA",
+    "user_name": "phuc1012000",
+    "date": "1594114555",
+    "change_type": "added",
+    "app_type": "GitHub",
+    "app_id": "A8GBNUWU8"
+}
+]

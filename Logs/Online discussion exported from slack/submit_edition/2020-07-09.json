@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1594346255.000200",
+        "user": "U016FJNG9SA",
+        "text": "<@U016FJNG9SA> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1594346267.000500",
+        "user": "U016FKE6UDU",
+        "text": "<@U016FKE6UDU> has joined the channel",
+        "inviter": "U016FJNG9SA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1594346268.000700",
+        "user": "U016FKX0JES",
+        "text": "<@U016FKX0JES> has joined the channel",
+        "inviter": "U016FJNG9SA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1594346268.000900",
+        "user": "U016WEFU82G",
+        "text": "<@U016WEFU82G> has joined the channel",
+        "inviter": "U016FJNG9SA"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1594346296.001000",
+        "user": "U016FJNG9SA",
+        "text": "<@U016FJNG9SA> has renamed the channel from \"submitedition\" to \"submit_edition\"",
+        "old_name": "submitedition",
+        "name": "submit_edition"
+    }
+]

@@ -1,0 +1,122 @@
+[
+{
+    "id": "C016M1BRAKF",
+    "name": "metropolis_hastings",
+    "created": 1594116292,
+    "creator": "U016FJNG9SA",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U016FJNG9SA",
+        "U016FKE6UDU",
+        "U016FKX0JES",
+        "U016WEFU82G"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C016NAT1C4S",
+    "name": "general",
+    "created": 1594114433,
+    "creator": "U016FJNG9SA",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "U016FJNG9SA",
+        "U016FKE6UDU",
+        "U016FKX0JES",
+        "U016WEFU82G"
+    ],
+    "topic": {
+        "value": "Company-wide announcements and work-based matters",
+        "creator": "U016FJNG9SA",
+        "last_set": 1594114433
+    },
+    "purpose": {
+        "value": "This channel is for workspace-wide communication and announcements. All members are in this channel.",
+        "creator": "U016FJNG9SA",
+        "last_set": 1594114433
+    }
+},
+{
+    "id": "C016NGXB2HH",
+    "name": "random",
+    "created": 1594114433,
+    "creator": "U016FJNG9SA",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U016FJNG9SA",
+        "U016FKE6UDU",
+        "U016FKX0JES",
+        "U016WEFU82G"
+    ],
+    "topic": {
+        "value": "Non-work banter and water cooler conversation",
+        "creator": "U016FJNG9SA",
+        "last_set": 1594114433
+    },
+    "purpose": {
+        "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+        "creator": "U016FJNG9SA",
+        "last_set": 1594114433
+    }
+},
+{
+    "id": "C016VAUH0RY",
+    "name": "submit_edition",
+    "created": 1594346254,
+    "creator": "U016FJNG9SA",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U016FJNG9SA",
+        "U016FKE6UDU",
+        "U016FKX0JES",
+        "U016WEFU82G"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C017C5Z27RN",
+    "name": "mathematics-modeling",
+    "created": 1594114434,
+    "creator": "U016FJNG9SA",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U016FJNG9SA",
+        "U016FKE6UDU",
+        "U016FKX0JES",
+        "U016WEFU82G"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+}
+]

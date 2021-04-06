@@ -1,0 +1,831 @@
+[
+    {
+        "client_msg_id": "5b123985-bd2b-4c63-a298-54e0bd062a9f",
+        "type": "message",
+        "text": "hey guys",
+        "user": "U016FJNG9SA",
+        "ts": "1594347590.000400",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fyhtd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hey guys"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a273fd72-b496-4c70-a3a4-13e46460f918",
+        "type": "message",
+        "text": "I need your github emailk",
+        "user": "U016FJNG9SA",
+        "ts": "1594347618.000700",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QvvB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I need your github emailk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8bdf45a6-baf5-4a95-bc30-4823507e6e56",
+        "type": "message",
+        "text": "to add you into our repo",
+        "user": "U016FJNG9SA",
+        "ts": "1594347627.001000",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Z0kw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "to add you into our repo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f53cc2bf-99e4-4792-a164-0cd409aba5c2",
+        "type": "message",
+        "text": "<mailto:SivCloud@users.noreply.github.com|SivCloud@users.noreply.github.com>",
+        "user": "U016FKX0JES",
+        "ts": "1594348611.002100",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/T7=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "mailto:SivCloud@users.noreply.github.com",
+                                "text": "SivCloud@users.noreply.github.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e51473e7-f1cb-442e-8198-4854d832c8e0",
+        "type": "message",
+        "text": "Is this the right email?",
+        "user": "U016FKX0JES",
+        "ts": "1594348677.003000",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gz3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Is this the right email?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20de40df-2b7c-4d2d-b506-e469b9cf066b",
+        "type": "message",
+        "text": "is your github user 's name is SivCloud?",
+        "user": "U016FJNG9SA",
+        "ts": "1594348868.003700",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ANwV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "is your github user 's name is SivCloud?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "128dfaa3-a434-4f09-8b04-2ce20a6f15f4",
+        "type": "message",
+        "text": "I just sent it, but next time sent email address that you use for github account",
+        "user": "U016FJNG9SA",
+        "ts": "1594348903.004400",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FI6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I just sent it, but next time sent email address that you use for github account"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6da5dee3-1e13-4814-a055-e457c26c7ec0",
+        "type": "message",
+        "text": "Yes, I saw your invitation",
+        "user": "U016FKX0JES",
+        "ts": "1594348933.004700",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U016FKX0JES",
+            "ts": "1594348977.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gKY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes, I saw your invitation"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f0680f6-80ca-48c1-8658-7e95596147bf",
+        "type": "message",
+        "text": "create your own branch that is ur name",
+        "user": "U016FJNG9SA",
+        "ts": "1594348976.005200",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNgf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "create your own branch that is ur name"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83752201-fc15-4ce9-8825-cea1c1a24376",
+        "type": "message",
+        "text": "we will revive and commit to the master after we all agree",
+        "user": "U016FJNG9SA",
+        "ts": "1594348994.005700",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8e7T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we will revive and commit to the master after we all agree"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5259d5e-27ca-4a52-87ee-7bf93fc4a557",
+        "type": "message",
+        "text": "I see",
+        "user": "U016FKX0JES",
+        "ts": "1594349077.005900",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3S9U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I see"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5202c2b6-28ed-4258-a6a6-221a37136c5f",
+        "type": "message",
+        "text": "This look complicated",
+        "user": "U016FKX0JES",
+        "ts": "1594349087.006200",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Ct",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This look complicated"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0de10bec-7b03-48fe-b368-b8b38e8bec2a",
+        "type": "message",
+        "text": ":smile: just ignore it",
+        "user": "U016FJNG9SA",
+        "ts": "1594349098.006500",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fu9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just ignore it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9d7159d-248c-4d8d-a531-366fac98fc34",
+        "type": "message",
+        "text": "i use my template",
+        "user": "U016FJNG9SA",
+        "ts": "1594349104.006700",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VT6KD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i use my template"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8707ca69-613d-4112-8518-2250d168aa97",
+        "type": "message",
+        "text": "just do your job at src",
+        "user": "U016FJNG9SA",
+        "ts": "1594349111.007200",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DdAN3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just do your job at src"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58971a7e-d236-4d4b-84d5-07ed572100ef",
+        "type": "message",
+        "text": "i will config it later",
+        "user": "U016FJNG9SA",
+        "ts": "1594349119.007500",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZuseN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "i will config it later"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "202fdebe-b947-498d-8c71-9d0da1c53b66",
+        "type": "message",
+        "text": "our submit will be in output <@U016FKE6UDU>",
+        "user": "U016FJNG9SA",
+        "ts": "1594349140.008100",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HtAT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "our submit will be in output "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U016FKE6UDU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d76fcc1-8838-4a02-9405-1e73e1a78b96",
+        "type": "message",
+        "text": "Back in my days, we code together all in the same master branch",
+        "user": "U016FKX0JES",
+        "ts": "1594349159.008500",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6rL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Back in my days, we code together all in the same master branch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "U016FJNG9SA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a8b08e70-ae30-4165-a4b8-db0879ecc4d0",
+        "type": "message",
+        "text": "It 's quite dangerous when some can accidentally delete your code that u are not finished working",
+        "user": "U016FJNG9SA",
+        "ts": "1594349262.009500",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z\/X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It 's quite dangerous when some can accidentally delete your code that u are not finished working"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73b717af-2975-4392-b13b-7c6d70cf461d",
+        "type": "message",
+        "text": "Hello, this is my email address in github: <mailto:quangvm2000@gmail.com|quangvm2000@gmail.com>\nPlease add me into our projects.",
+        "user": "U016WEFU82G",
+        "ts": "1594363420.011500",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "4405ced9f628",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1276759189552_4405ced9f6281ae97c59_72.jpg",
+            "first_name": "",
+            "real_name": "Vu Minh Quang",
+            "display_name": "Vu Minh Quang",
+            "team": "T016LV2U8MB",
+            "name": "quang.vuminh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NGaA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, this is my email address in github: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:quangvm2000@gmail.com",
+                                "text": "quangvm2000@gmail.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPlease add me into our projects."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b63dccd-340b-4b02-a64f-6f5bd23f24d6",
+        "type": "message",
+        "text": "Thank you very much.",
+        "user": "U016WEFU82G",
+        "ts": "1594363426.011700",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "4405ced9f628",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1276759189552_4405ced9f6281ae97c59_72.jpg",
+            "first_name": "",
+            "real_name": "Vu Minh Quang",
+            "display_name": "Vu Minh Quang",
+            "team": "T016LV2U8MB",
+            "name": "quang.vuminh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xJxl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you very much."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

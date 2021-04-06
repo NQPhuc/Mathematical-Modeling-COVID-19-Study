@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "c865681b-69a0-4b95-80ad-1de41a103fa1",
+        "type": "message",
+        "text": "<@U016WEFU82G> don't make beta and gamma a global variable. You MUST follow the pdf instruction.  We're not going to input it by hand because in other parts, we're going call your functions so please keep in mind compatibility . Speaking of plotting, you also need to find a way to plot it onto a graph as in exercise 2 said.",
+        "user": "U016FKX0JES",
+        "ts": "1594255048.011300",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CTmCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016WEFU82G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " don't make beta and gamma a global variable. You MUST follow the pdf instruction.  We're not going to input it by hand because in other parts, we're going call your functions so please keep in mind compatibility . Speaking of plotting, you also need to find a way to plot it onto a graph as in exercise 2 said."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c200b95-43a1-46fa-a3d6-53bc1a1f20f7",
+        "type": "message",
+        "text": "I am sorry, it was my fault not reading the requirements carefully. Thank you for your advice. I will consider it and let you know.",
+        "user": "U016WEFU82G",
+        "ts": "1594258430.013200",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "4405ced9f628",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-07-21\/1276759189552_4405ced9f6281ae97c59_72.jpg",
+            "first_name": "",
+            "real_name": "Vu Minh Quang",
+            "display_name": "Vu Minh Quang",
+            "team": "T016LV2U8MB",
+            "name": "quang.vuminh",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am sorry, it was my fault not reading the requirements carefully. Thank you for your advice. I will consider it and let you know."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

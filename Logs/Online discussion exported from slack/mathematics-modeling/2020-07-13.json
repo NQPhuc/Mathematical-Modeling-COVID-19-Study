@@ -1,0 +1,375 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F016SNBDLTG",
+                "created": 1594636877,
+                "timestamp": 1594636877,
+                "name": "Capture.PNG",
+                "title": "Capture.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U016FKX0JES",
+                "editable": false,
+                "size": 23623,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T016LV2U8MB-F016SNBDLTG\/capture.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T016LV2U8MB-F016SNBDLTG\/download\/capture.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016SNBDLTG-4c0d901e0c\/capture_64.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016SNBDLTG-4c0d901e0c\/capture_80.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016SNBDLTG-4c0d901e0c\/capture_360.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_360_w": 360,
+                "thumb_360_h": 187,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016SNBDLTG-4c0d901e0c\/capture_480.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_480_w": 480,
+                "thumb_480_h": 249,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016SNBDLTG-4c0d901e0c\/capture_160.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016SNBDLTG-4c0d901e0c\/capture_720.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_720_w": 720,
+                "thumb_720_h": 374,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016SNBDLTG-4c0d901e0c\/capture_800.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_800_w": 800,
+                "thumb_800_h": 416,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T016LV2U8MB-F016SNBDLTG-4c0d901e0c\/capture_960.png?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "thumb_960_w": 960,
+                "thumb_960_h": 499,
+                "original_w": 980,
+                "original_h": 509,
+                "thumb_tiny": "AwAYADCsbqb\/AJ6uPxpPtU3\/AD3f86iIye9NIx6\/jQBN9quP+ez\/AJ0n2u4\/57P+dQ0UATfa7j\/ns\/51JDcztMgMrkFgDzVWpLf\/AI+I\/wDeH86AEPB5zSEg9M\/jTn6UygAooooAKfb\/APHxH\/vCmVJB\/r4\/94UAf\/\/Z",
+                "permalink": "https:\/\/bk-hcm.slack.com\/files\/U016FKX0JES\/F016SNBDLTG\/capture.png",
+                "permalink_public": "https:\/\/slack-files.com\/T016LV2U8MB-F016SNBDLTG-2b55fd2608",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U016FKX0JES",
+        "display_as_bot": false,
+        "ts": "1594636880.000100"
+    },
+    {
+        "client_msg_id": "ed5c4bb7-e3e6-4614-bcb9-79ab0227b3f7",
+        "type": "message",
+        "text": "<@U016WEFU82G> your RK4 code have a few problem in some case",
+        "user": "U016FKX0JES",
+        "ts": "1594636910.000900",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LX2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016WEFU82G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " your RK4 code have a few problem in some case"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05a82b92-3a4b-424c-90e9-4473e106a108",
+        "type": "message",
+        "text": "<@U016FKX0JES> could you give more detail error report?",
+        "user": "U016FJNG9SA",
+        "ts": "1594641955.001900",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n6t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U016FKX0JES"
+                            },
+                            {
+                                "type": "text",
+                                "text": " could you give more detail error report?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ccdedd2c-ca01-4063-b087-923023b50283",
+        "type": "message",
+        "text": "look at your result, I assume he have underflow problem",
+        "user": "U016FJNG9SA",
+        "ts": "1594642001.002400",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IVv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "look at your result, I assume he have underflow problem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07a0109e-e8b9-467a-89fd-0180c48eb699",
+        "type": "message",
+        "text": "This happend when beta is high enough",
+        "user": "U016FKX0JES",
+        "ts": "1594642170.002800",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EH77",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This happend when beta is high enough"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f49c11d5-55ea-4cb1-84d2-c948324c7789",
+        "type": "message",
+        "text": "Maybe around 10",
+        "user": "U016FKX0JES",
+        "ts": "1594642174.003000",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ncc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Maybe around 10"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "649e215a-7879-4570-b98d-df1de08e99d8",
+        "type": "message",
+        "text": "Once infected is negative, the bug is gauranteer to appear",
+        "user": "U016FKX0JES",
+        "ts": "1594642222.004100",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ETv2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Once infected is negative, the bug is gauranteer to appear"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "997380df-c41d-4db3-8e39-9373b2827cc2",
+        "type": "message",
+        "text": ":smile:",
+        "user": "U016FJNG9SA",
+        "ts": "1594642245.004400",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4XKIP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32a49bb5-805c-48de-91ff-89937fe606e5",
+        "type": "message",
+        "text": "he forget to give the condition :smile:",
+        "user": "U016FJNG9SA",
+        "ts": "1594642268.005000",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cdg5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "he forget to give the condition "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1594114434.000200",
+        "user": "U016FJNG9SA",
+        "text": "<@U016FJNG9SA> has joined the channel"
+    },
+    {
+        "client_msg_id": "921725be-ec99-460f-8c77-d54ea273b5a2",
+        "type": "message",
+        "text": "thông tin chung về project, nhắn ngắn gọn, không chém gió",
+        "user": "U016FJNG9SA",
+        "ts": "1594114897.000700",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b=Qkb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thông tin chung về project, nhắn ngắn gọn, không chém gió"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1594115295.000900",
+        "user": "U016FKE6UDU",
+        "text": "<@U016FKE6UDU> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1594115864.001100",
+        "user": "U016FKX0JES",
+        "text": "<@U016FKX0JES> has joined the channel"
+    },
+    {
+        "client_msg_id": "22f20cab-1bb5-4f9a-9b37-de9517e31505",
+        "type": "message",
+        "text": "What should the metropolis hasting algorithm return?",
+        "user": "U016FKX0JES",
+        "ts": "1594116292.001600",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "g1f46c9a9111",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1f46c9a9111bf09808c948eb88636411.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Nguyen Quang Phuc",
+            "display_name": "Nguyen Quang Phuc",
+            "team": "T016LV2U8MB",
+            "name": "rikimaru101",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sN96",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "What should the metropolis hasting algorithm return?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e63d611-74f3-47a0-a9e1-58a58c791ddc",
+        "type": "message",
+        "text": "<https:\/\/towardsdatascience.com\/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a>",
+        "user": "U016FJNG9SA",
+        "ts": "1594116695.002100",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "From Scratch: Bayesian Inference, Markov Chain Monte Carlo and Metropolis Hastings, in python",
+                "title_link": "https:\/\/towardsdatascience.com\/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a",
+                "text": "0- My first article",
+                "fallback": "Medium: From Scratch: Bayesian Inference, Markov Chain Monte Carlo and Metropolis Hastings, in python",
+                "image_url": "https:\/\/miro.medium.com\/max\/870\/1*9qg7NjleoJqmboO7KB4lpg.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "15 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1570202252,
+                "from_url": "https:\/\/towardsdatascience.com\/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 111284,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/152\/152\/1*8I-HPL0bfoIzGied-dzOvA.png",
+                "id": 1,
+                "original_url": "https:\/\/towardsdatascience.com\/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YtLNP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/towardsdatascience.com\/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "342b5805-fe70-4e5e-a295-2c25de401958",
+        "type": "message",
+        "text": "praticall, easy to understand",
+        "user": "U016FJNG9SA",
+        "ts": "1594116703.002500",
+        "team": "T016LV2U8MB",
+        "user_team": "T016LV2U8MB",
+        "source_team": "T016LV2U8MB",
+        "user_profile": {
+            "avatar_hash": "ged7cf4e0970",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ed7cf4e0970ca931cd016bb885e28775.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Phan",
+            "real_name": "Phan Thien Phuc",
+            "display_name": "",
+            "team": "T016LV2U8MB",
+            "name": "phuc1012000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tGoe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "praticall, easy to understand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1594173694.000200",
+        "user": "U016WEFU82G",
+        "text": "<@U016WEFU82G> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "This is the RK4 model for SIR. Please look through it and give it some comments.\nPs: Cus I don't know what to do more.",
+        "files": [
+            {
+                "id": "F016NTGFD8D",
+                "created": 1594173759,
+                "timestamp": 1594173759,
+                "name": "rungeKuttaModel.py",
+                "title": "rungeKuttaModel.py",
+                "mimetype": "text\/plain",
+                "filetype": "python",
+                "pretty_type": "Python",
+                "user": "U016WEFU82G",
+                "editable": true,
+                "size": 2924,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T016LV2U8MB-F016NTGFD8D\/rungekuttamodel.py?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T016LV2U8MB-F016NTGFD8D\/download\/rungekuttamodel.py?t=xoxe-1224988960725-1264679529714-1263307644805-9d7748bcb5b3a9403940381fb156de62",
+                "permalink": "https:\/\/bk-hcm.slack.com\/files\/U016WEFU82G\/F016NTGFD8D\/rungekuttamodel.py",
+                "permalink_public": "https:\/\/slack-files.com\/T016LV2U8MB-F016NTGFD8D-25385afe28",
+                "edit_link": "https:\/\/bk-hcm.slack.com\/files\/U016WEFU82G\/F016NTGFD8D\/rungekuttamodel.py\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Mu38",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is the RK4 model for SIR. Please look through it and give it some comments.\nPs: Cus I don't know what to do more."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U016WEFU82G",
+        "display_as_bot": false,
+        "ts": "1594173864.001900"
+    }
+]
